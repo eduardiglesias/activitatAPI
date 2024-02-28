@@ -1,0 +1,22 @@
+{
+  "cities": [
+    {
+      "id": "1",
+      "name": "Barcelona",
+      "temperature": 27,
+      "description": "Sunny"
+    },
+    {
+      "id": "2",
+      "name": "London",
+      "temperature": 20,
+      "description": "Cloudy"
+    },
+    {
+      "id": "3",
+      "name": "Paris",
+      "temperature": 22,
+      "description": "Partly Cloudy"
+    }
+  ]
+}
